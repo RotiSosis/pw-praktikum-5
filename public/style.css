@@ -1,0 +1,43 @@
+.container {
+  padding: 20px;
+}
+
+* {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: antiquewhite;
+}
+
+html {
+  background: #222222;
+}
+
+#onlogo {
+  color: #f43b86;
+}
+
+#title {
+  color: #f43b86;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-top: 15px;
+  margin-right: 5px;
+}
+
+.head-logo {
+  display: flex;
+  justify-content: center;
+}
+
+.key {
+  margin-top: 50px;
+  margin-right: 10px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
